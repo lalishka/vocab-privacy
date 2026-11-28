@@ -1,5 +1,5 @@
 ---
-title: Словарный запас (Vocabulary: New Words Daily) — Политика конфиденциальности
+title: "Словарный запас (Vocabulary: New Words Daily) — Политика конфиденциальности"
 ---
 [English](index.md) · [Условия использования](terms-ru.md)
 

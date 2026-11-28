@@ -1,5 +1,5 @@
 ---
-title: Vocabulary: New Words Daily (Словарный запас) — Privacy Policy
+title: "Vocabulary: New Words Daily (Словарный запас) — Privacy Policy"
 ---
 [Русская версия](ru.md) · [Terms of Use](terms.md)
 

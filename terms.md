@@ -1,5 +1,5 @@
 ---
-title: Vocabulary: New Words Daily (Словарный запас) — Terms of Use
+title: "Vocabulary: New Words Daily (Словарный запас) — Terms of Use"
 ---
 [Русская версия](terms-ru.md) · [Privacy Policy](index.md)
 
